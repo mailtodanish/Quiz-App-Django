@@ -116,7 +116,7 @@ STATICFILES_DIRS = [
     BASE_DIR / "front-end-app/build/static"
 ]
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_ROOT = BASE_DIR /  'staticfiles'
 
 CORS_ORIGIN_WHITELIST = (
          'localhost:8000/'
