@@ -2,9 +2,10 @@
 - Status - In-Progress 
 + (Project section for progress done)
 ```
+## Djnago, DRF & React
 # Create Quiz, Questionnaire & Test
 
-### Built using Djnago
+### Built using Djnago Backend API & React Frontend
 
 <p style='color:Black'>
 QuizMaker is a web Application that allows you to create and share quizzes in a simple way.
